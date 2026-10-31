@@ -274,7 +274,7 @@ const pressDigit = (digit) => {
                           transition={{ duration: 2, repeat: Infinity }}
                         >
                           <img
-                            src="\public\photo1.jpg"
+                            src="/Ahmed-Amira/photo1.jpg"
                             alt="Caller portrait"
                           />
                           <span className="avatar-heart">♥</span>
